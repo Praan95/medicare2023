@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334589126129",
+    "project_id": "medi-care-72acf",
+    "storage_bucket": "medi-care-72acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334589126129:android:1ccdc82b4f221a5807d050",
+        "android_client_info": {
+          "package_name": "com.ts.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334589126129-hoda3c7soa357ft2jegk10prm1bm4op0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZOHjgg_SUdJI9siASKEoBbocjRXlcGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334589126129-hoda3c7soa357ft2jegk10prm1bm4op0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
